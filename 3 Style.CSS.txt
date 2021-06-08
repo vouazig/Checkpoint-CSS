@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="" />
+		<link rel="stylesheet" href="./styles.css" />
+		<meta name="viewport" content="width=, initial-scale=" />
+		<title></title>
+	</head>
+	<body></body>
+</html>
